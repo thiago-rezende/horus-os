@@ -9,7 +9,7 @@
 
   <h3 align="center">Horus OS</h3>
   <p align="center">
-    A Dead Simple Kernel / OS
+    A Dead Simple x86-32 Kernel / OS
     <br />
     <a href="#how-to-use"><strong>Explore the docs »</strong></a>
     <br />
