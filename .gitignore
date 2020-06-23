@@ -1,0 +1,6 @@
+### Make ###
+bin
+obj
+
+### Doxygen ###
+docs
