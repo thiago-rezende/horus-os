@@ -8,7 +8,7 @@ CFLAGS :=
 LDFLAGS :=
 
 CFLAGS += -Iinclude -target $(TARGET)
-# LDFLAGS += --nostdlib
+LDFLAGS += --nostdlib
 
 KERNEL_SRC = $(wildcard kernel/*.c) $(wildcard kernel/*/*.c)
 BOOT_SRC = $(wildcard boot/*.s)
